@@ -1,0 +1,10 @@
+{
+    "name": "daritelska-platforma/php-sandbox",
+    "authors": [
+        {
+            "name": "Martin Kovachev",
+            "email": "miracle@nimasystems.com"
+        }
+    ],
+    "require": {}
+}
